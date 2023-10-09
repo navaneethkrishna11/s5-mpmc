@@ -100,7 +100,13 @@ void main(){
 	fclose(src);
 
 }
-   
+
+
+/*
+output
+----------------
+length = 24
+*/
   
   
 
